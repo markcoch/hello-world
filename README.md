@@ -1,2 +1,5 @@
 # hello-world
-practice
+**MarkCoch's edited Read-me**
+
+~~This is a strikethrough~~
+
